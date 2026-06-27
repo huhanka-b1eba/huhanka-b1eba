@@ -1,14 +1,9 @@
 # Hello there, I'm Aigiz Tulybaev! 👋
 
----
-
 ## 💻 About me
-
 * Frontend developer working with **React**, **Next.js** and **TypeScript**
 * Student at **KFU, ITIS**
 * I enjoy working on commercial projects, hackathons and team-based development
-
----
 
 ## 🛠️ Tech Stack
 
@@ -30,14 +25,13 @@
   <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
----
-
 ## 📪 Contacts
 
 <p>
   <a href="https://t.me/aigiz_tul">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  
   <a href="mailto:tulybaevaigiz@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
