@@ -26,13 +26,8 @@
 </p>
 
 ## 📪 Contacts
-
 <p>
-  <a href="https://t.me/aigiz_tul">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  
-  <a href="mailto:tulybaevaigiz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://t.me/aigiz_tul"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:tulybaevaigiz@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
